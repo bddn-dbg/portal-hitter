@@ -3,6 +3,8 @@ import random
 import time
 
 urls = [
+    "https://bddn.online",
+    "https://bddn.online/bddn/",
     "https://dynamic-portal-omega.vercel.app",
     "https://dynamic-portal-bddn-web.netlify.app",
     "https://demo-ecommerce-bddn.netlify.app",
