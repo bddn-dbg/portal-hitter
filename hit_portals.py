@@ -6,13 +6,11 @@ urls = [
     "https://dynamic-portal-omega.vercel.app",
     "https://dynamic-portal-bddn-web.netlify.app",
     "https://demo-ecommerce-bddn.netlify.app",
-    "https://imran41.github.io/bihar-digital-data/",
     "https://imran41.github.io/portfolio/",
     "https://bddn-dbg.github.io/MistriBazaar/",
     "https://mb-data-collection.vercel.app/",
     "https://bddn-dbg.github.io/bddn/",
     "https://bddn-dbg.github.io/fancydata/",
-    "https://merry-wisp-83f47c.netlify.app",
     "https://bihar-digital-data-and-network-hnou.vercel.app/",
     "https://imran41.github.io/bddn/"
 ]
