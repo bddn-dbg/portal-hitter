@@ -6,6 +6,9 @@ on:
 
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   hit-portals:
     runs-on: ubuntu-latest
@@ -16,10 +19,11 @@ jobs:
 
       - name: Setup Python
         uses: actions/setup-python@v5
+
         with:
           python-version: '3.11'
 
-      - name: Install Dependencies
+      - name: Install Requests
         run: pip install requests
 
       - name: Run Python Script
