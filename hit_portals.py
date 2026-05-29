@@ -14,7 +14,7 @@ urls = [
     "https://bddn-dbg.github.io/bddn/",
     "https://bddn-dbg.github.io/fancydata/",
     "https://bihar-digital-data-and-network-hnou.vercel.app/",
-    "https://imran41.github.io/bddn/"
+    "https://bddn.online/bddn-institute.github.io/"
 ]
 
 headers = {
