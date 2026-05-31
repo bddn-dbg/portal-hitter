@@ -8,7 +8,7 @@ urls = [
     "https://dynamic-portal-bddn-web.netlify.app",
     "https://demo-ecommerce-bddn.netlify.app",
     "https://imran41.github.io/portfolio/",
-    "https://bddn-dbg.github.io/MistriBazaar/",
+    "https://silly-buttercream-70d93e.netlify.app/",
     "https://mb-data-collection.vercel.app/",
     "https://bddn-dbg.github.io/fancydata/",
     "https://bihar-digital-data-and-network-hnou.vercel.app/",
