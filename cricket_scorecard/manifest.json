@@ -2,7 +2,7 @@
   "name": "Cricket Scorecard Dashboard",
   "short_name": "Cricket Score",
   "description": "Premium interactive cricket scorecard dashboard with real-time scoring and offline persistence.",
-  "start_url": "cricket_scorecard.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#0a0e1a",
   "theme_color": "#f59e0b",
