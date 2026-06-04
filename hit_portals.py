@@ -12,7 +12,8 @@ urls = [
     "https://mb-data-collection.vercel.app/",
     "https://bddn-dbg.github.io/fancydata/",
     "https://bihar-digital-data-and-network-hnou.vercel.app/",
-    "https://bddn.online/bddn-institute.github.io/"
+    "https://bddn.online/bddn-institute.github.io/",
+    "https://stockforecasting-home-imran.streamlit.app/"
 ]
 
 headers = {
