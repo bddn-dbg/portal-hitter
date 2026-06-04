@@ -14,7 +14,8 @@ urls = [
     "https://bihar-digital-data-and-network-hnou.vercel.app/",
     "https://bddn.online/bddn-institute.github.io/",
     "https://stockforecasting-home-imran.streamlit.app/",
-    "https://scorecard-imran.streamlit.app/"
+    "https://scorecard-imran.streamlit.app/",
+    "https://glittering-parfait-588d53.netlify.app/"
 ]
 
 headers = {
