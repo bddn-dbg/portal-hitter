@@ -6,6 +6,8 @@ urls = [
     "https://bddn.online",
     "https://bddn.in",
     "https://clinquant-gecko-62db4d.netlify.app/",
+    "https://keen-malasada-29933c.netlify.app/",
+    
     "https://dynamic-portal-omega.vercel.app",
     "https://dynamic-portal-bddn-web.netlify.app",
     "https://demo-ecommerce-bddn.netlify.app",
