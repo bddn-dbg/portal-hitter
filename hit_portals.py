@@ -5,21 +5,17 @@ import time
 urls = [
     "https://bddn.online",
     "https://bddn.in",
-    "https://clinquant-gecko-62db4d.netlify.app/",
-    "https://keen-malasada-29933c.netlify.app/",
     
-    "https://dynamic-portal-omega.vercel.app",
-    "https://dynamic-portal-bddn-web.netlify.app",
-    "https://demo-ecommerce-bddn.netlify.app",
+    #MindMap
+    "https://thriving-otter-f0f8c2.netlify.app/",
+    "https://brilliant-pegasus-a19ea7.netlify.app/",
+    
     "https://imran41.github.io/portfolio/",
-    "https://silly-buttercream-70d93e.netlify.app/",
-    "https://mb-data-collection.vercel.app/",
-    "https://bddn-dbg.github.io/fancydata/",
-    "https://bihar-digital-data-and-network-hnou.vercel.app/",
-    "https://bddn.online/bddn-institute.github.io/",
     "https://stockforecasting-home-imran.streamlit.app/",
+    
+    # Scorecard
     "https://scorecard-imran.streamlit.app/",
-    "https://glittering-parfait-588d53.netlify.app/"
+    "https://cute-douhua-27227e.netlify.app/",
 ]
 
 headers = {
