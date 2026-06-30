@@ -7,7 +7,7 @@ urls = [
     "https://bddn.online",
     "https://bddn.in",
     "https://mindmap.bddn.in",
-    "https://imran41.github.io/ds-mindmap/"
+    "https://imran41.github.io/ds-mindmap/",
     
     #MindMap
     "https://thriving-otter-f0f8c2.netlify.app/",
