@@ -24,7 +24,7 @@ urls = [
     "https://cute-douhua-27227e.netlify.app/",
     
     #wedding
-    "https://imran-weds-aniqa.netlify.app",
+    "https://imranwedsaniqa.netlify.app",
 ]
 
 headers = {
