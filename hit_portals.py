@@ -22,6 +22,9 @@ urls = [
     # Scorecard
     "https://scorecard-imran.streamlit.app/",
     "https://cute-douhua-27227e.netlify.app/",
+    
+    #wedding
+    "https://imran-weds-aniqa.netlify.app",
 ]
 
 headers = {
